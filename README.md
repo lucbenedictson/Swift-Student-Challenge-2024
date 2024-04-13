@@ -5,4 +5,4 @@ This was my first app that I built and I did it in just a few days over my readi
 The app is a To Do List. Its features include adding, removing, and editing taskings as well as clearing all tasks. 
 On top of this, the list will persist between lauches.
 
-![alt text] https://github.com/lucbenedictson/Swift-Student-Challenge-2024/blob/main/InterfaceScreenShot1.png
+![alt text] (https://github.com/lucbenedictson/Swift-Student-Challenge-2024/blob/main/InterfaceScreenShot1.png)

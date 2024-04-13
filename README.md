@@ -7,4 +7,4 @@ On top of this, the list will persist between lauches.
 
 ![alt text](https://github.com/lucbenedictson/Swift-Student-Challenge-2024/blob/main/screen_shots/InterfaceScreenShot1.png)
 
-![alt text](https://github.com/lucbenedictson/Swift-Student-Challenge-2024/blob/main/InterfaceScreenShot2.png)
+![alt text](https://github.com/lucbenedictson/Swift-Student-Challenge-2024/blob/main/screen_shots/InterfaceScreenShot2.png)
